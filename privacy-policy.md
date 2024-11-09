@@ -81,4 +81,4 @@ Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu. Kami akan memb
 
 ## Hubungi Kami
 
-Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, silakan hubungi kami di [alamat email Anda].
+Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, silakan hubungi kami di admin@golep.com
